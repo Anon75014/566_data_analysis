@@ -1,0 +1,5 @@
+﻿,,,TEST REPORT,,,,,,,,,,,
+,, Test Name, 0050_capa_OCV+Westart_PEHV75AH_1_1, Serial Number,219471, C:\Users\Arbin\Desktop\0050_capa_OCV+Westart_PEHV75AH_1_1_2023_12_12_160601,,,,,,,
+,,Export Time,12/15/2023 15:10:34,,,,,,,,,,,,
+Channel,Start DateTime,Schedule File Name,Creator,Comments,Software Version,Schedule Version,MASS(g),Specific Capacity(Ah/g),Capacity(Ah),BarCode,Has Aux,Has Specail,Log Aux Data Flag,Log Special Flag
+2,12/12/2023 16:06:02,0050_capa_OCV+Westart_PEHV75AH.sdx,admin,,Mits8 PV Build: 202103,Schedule Version 8.00.11,50,0,72,B.SXL-002,512,0,True,False
