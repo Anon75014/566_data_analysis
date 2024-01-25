@@ -1,0 +1,5 @@
+﻿,,,TEST REPORT,,,,,,,,,,,
+,, Test Name, 0050_EIS+Westart_PEHV75AH_3_3, Serial Number,219471, C:\Users\Arbin\Desktop\0050_EIS+Westart_PEHV75AH_3_3_2024_01_19_090955,,,,,,,
+,,Export Time,01/22/2024 10:12:49,,,,,,,,,,,,
+Channel,Start DateTime,Schedule File Name,Creator,Comments,Software Version,Schedule Version,MASS(g),Specific Capacity(Ah/g),Capacity(Ah),BarCode,Has Aux,Has Specail,Log Aux Data Flag,Log Special Flag
+1,01/19/2024 09:10:04,0050_EIS_+Westart_PEHV75AH.sdx,admin,,Mits8 PV Build: 202103,Schedule Version 8.00.11,50,0,72,B.SXL-003,512,0,True,False

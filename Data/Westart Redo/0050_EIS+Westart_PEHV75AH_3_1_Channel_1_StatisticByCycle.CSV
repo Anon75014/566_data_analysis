@@ -1,0 +1,2 @@
+﻿Date_Time                    ,Test Time (s),Step Time (s),Cycle Index,Step Index,TC_Counter3,Current (A),Voltage (V),Power (W),Charge Capacity (Ah),Discharge Capacity (Ah),Charge Energy (Wh),Discharge Energy (Wh),Charge Time (s),Discharge Time (s),V_Max_On_Cycle (V),Coulombic Efficiency (%),Capacity (Ah),mAh/g,Aux_Temperature_1 (C),Aux_dT/dt_1 (C/s)
+	01/18/2024 10:54:07.103,86124.1820,10.5264,1,17,0.0000,-21.6029,4.0384,-87.2412,61.2063,13.1382,228.8215,44.8419,60567.9600,5695.2250,0.0000,21.4654,13.1382,262.7632,27.9267,-0.0028,
